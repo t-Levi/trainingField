@@ -1,0 +1,10 @@
+This is a test txt file.
+We added two rows with random writting
+asff fsaf as fsafasda asd asf asf a
+asdasfasfa s fas fas fasfafsaf asfa .x 
+
+Added new rows. Random words. 
+sadasdasdsadasda
+dsd
+ssasd
+dsadsadasds. EOF.
